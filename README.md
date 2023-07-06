@@ -1,1 +1,1 @@
-# Feline-vs-Canine-Classifier
+A dogs vs cats classifier made using 2D Convolutional layers to extract features, fully connected layers connected to a binary classification unit having a sigmoid activation function and dropout regularization to prevent over-fitting to the training set.
